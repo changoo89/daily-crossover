@@ -1,0 +1,44 @@
+# Site settings
+title: Daily Crossover
+description: "Daily briefing: AI · Cricket · Gaming · Economy"
+baseurl: "/daily-crossover"
+url: "https://changoo89.github.io"
+author: Nari
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Timezone
+timezone: Asia/Seoul
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Nari"
+
+# RSS Feed
+feed:
+  path: feed.xml
