@@ -5,7 +5,7 @@ title: Daily Crossover
 
 # 🌸 Daily Crossover
 
-매일 아침 9시, 4가지 주제의 순살 브리핑을 전달합니다.
+매일 아침 9시, 글로벌 크로스오버 브리핑을 전달합니다.
 
 ## 📬 구독하기
 
@@ -27,4 +27,4 @@ title: Daily Crossover
 
 ---
 
-Made with 🌸 by Nari
+**Daily Crossover** - Made with 🌸 by Nari
